@@ -81,28 +81,30 @@ html, body{
 
 
 .container-right-remember{
-	width: 100%;
+	width: 60%;
 	position: relative;
 	top:320px;
-	left:200px;
+	margin: 0 auto;
 	border: none;
-	float: left;
+	text-align: center;
 }
 
 .remember-input{
 	position: relative;
 	width: 10px;
 	height: 10px;
+	left:13%;
 	float: left;
 	margin-right:10px;
 	border-radius: 4px;
+	margin-top: -2px;
 }
 
 
 .remember-txt{
 	width: 200px;
 	top:400px;
-	left:230px;
+	left:20px;
 	border: none;
 	color: #43425D;
 	font-size: 15px;
@@ -138,7 +140,8 @@ html, body{
 .container-right-btn{
 	position: relative;
 	top: 370px;
-	width: 100%;
+	width: 50%;
+	margin:0 auto;
 }
 
 
@@ -148,7 +151,7 @@ html, body{
 	background:#43425D;
 	color: #ffffff;
 	border-radius: 5px;
-	left:190px;
+
 }
 
 
@@ -157,7 +160,7 @@ html, body{
 	padding:15px 55px;
 	color: #43425D;
 	border-radius: 5px;
-	left:230px;
+	left: 45px;
 	border:1px solid #43425D;
 }
 
